@@ -1,0 +1,11 @@
+# PyDevops Requirements
+# Python dependencies for DevOps scripts and modules
+
+# System monitoring
+psutil>=5.9.0
+
+# HTTP requests for health checks
+requests>=2.31.0
+
+# YAML configuration support
+PyYAML>=6.0
